@@ -9,7 +9,7 @@
    {
      "img": "assets/dog#1.jpg",
      "name": "Donatello ",
-     "color": "R",
+     "color": "Light brown",
      "Type": "Dog",
      "age" : 2,
    }
